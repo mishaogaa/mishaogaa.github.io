@@ -32,12 +32,12 @@ body {
 
 /* ASCII Art styling */
 .ascii-art {
-    color: #ffd700;  /* Gold/yellow color */
+    color: #ffd700;
     font-size: 12px;
     line-height: 1.2;
     white-space: pre;
     font-family: 'Courier New', monospace;
-    text-shadow: 0 0 5px #ffd700;  /* Glow effect */
+    text-shadow: 0 0 5px #ffd700;
     margin-bottom: 20px;
 }
 
@@ -55,7 +55,7 @@ body {
     display: inline-block;
 }
 
-/* Small text area - MODIFY THIS SECTION */
+/* Small text area */
 .small-text {
     color: #ffd700;
     font-family: 'Courier New', monospace;
@@ -69,12 +69,6 @@ body {
 .small-text p {
     margin: 5px 0;
     opacity: 0.9;
-    transition: opacity 0.3s;
-}
-
-.small-text p:hover {
-    opacity: 1;
-    text-shadow: 0 0 5px #ffd700;
 }
 
 /* Make ASCII art responsive */
