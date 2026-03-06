@@ -45,7 +45,7 @@ body {
 /* Side images containers - BOTH SAME SIZE */
 .side-image {
     flex: 0 0 auto;
-    width: 70px;  /* Fixed width for images */
+    width: 120px;  /* Fixed width for images */
 }
 
 /* Small image styling - BOTH SAME SIZE */
@@ -195,4 +195,3 @@ body {
         height: 60px;
     }
 }
-
