@@ -42,7 +42,7 @@ body {
 }
 
 /* OGAM text styling */
-.ogam-text h1 {
+.oga-text h1 {
     color: #ffd700;
     font-size: 48px;
     font-family: 'Courier New', monospace;
@@ -77,7 +77,7 @@ body {
         font-size: 6px;
     }
     
-    .ogam-text h1 {
+    .oga-text h1 {
         font-size: 32px;
         letter-spacing: 5px;
     }
@@ -93,3 +93,4 @@ body {
         font-size: 4px;
     }
 }
+
